@@ -1,9 +1,16 @@
 title: MSW Mentorship Research & Resource Portal
 description: Comprehensive academic documentation, curriculum standards, and facilitator materials for MSW mentorship frameworks.
-theme: just-the-docs
+
+# Use remote_theme instead of theme for GitHub Pages compatibility
+remote_theme: just-the-docs/just-the-docs
 
 url: "https://mmonfils.github.io"
 baseurl: "/msw-mentorship-support-systems-research"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Navigation settings
 nav_sort: case_insensitive
