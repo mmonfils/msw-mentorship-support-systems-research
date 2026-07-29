@@ -1,17 +1,30 @@
-# Research Hub — Mentorship as a Catalyst: Exploring Support Systems in MSW Graduate Training
+---
+layout: default
+title: Home
+nav_order: 1
+description: Central research archive for Master of Social Work mentorship frameworks.
+---
 
-Welcome to the open-science replication repository and digital archive for this qualitative research study conducted within the Department of Social Work at Grand View University.
+# MSW Mentorship & Critical Pedagogy Research Portal
 
-## 🔬 Methodology, Dataset, & Documentation Directory
-Select a link below to review the transparent components of this empirical research package:
+Welcome to the central academic documentation archive for **Mentorship as a Catalyst: Exploring Support Systems in Master of Social Work Graduate Training**. 
 
-* **[The Research Manuscript](MANUSCRIPT.md):** The full, word-for-word text of the academic research paper.
-* **[Appendix A — IRB Protocol Form](APPENDIX_A_IRB.md):** The approved Institutional Review Board framework (Protocol #405-26).
-* **[Appendix B — Informed Consent Layout](APPENDIX_B_CONSENT.md):** The signed disclosure agreement framework utilized for qualitative participants.
-* **[Appendix C — Interview Protocol Guide](APPENDIX_C_PROTOCOL.md):** The semi-structured five-prompt interview guide deployed during data gathering.
-* **[Appendix E — Qualitative Coding Matrix](APPENDIX_E_CODING.md):** The systematic data tracking sheets detailing theme extraction for Participants A through E.
+This site holds full manuscripts, ethical standards mappings, and facilitator resources for the 2026 NASW Iowa Symposium workshop.
 
 ---
 
-## 🔒 Confidentiality Reminder
-*Per IRB restrictions, Appendix D (Full Uncut Audio/Video Interview Transcripts) is omitted from this public web portal to prevent identity disclosure through local contextual clues. All included data points are completely de-identified.*
+## Core Documentation Modules
+
+* **[Core Paper (`research/paper-core.md`)](./research/paper-core.md)**: Primary authority for theoretical frameworks, data analysis, and findings.
+* **[Literature Review (`research/literature-review.md`)](./research/literature-review.md)**: Review of critical pedagogy, systems theory, and strengths-based models.
+* **[Facilitator Portal (`facilitator/index.md`)](./facilitator/index.md)**: Facilitation guides and live data review protocols.
+* **[Annotated References (`references.md`)](./references.md)**: Complete citation list and standards alignment.
+
+---
+
+## Appendices and Methodological Protocols
+
+* **[Appendix A: IRB Documentation](./APPENDIX_A_IRB.md)**
+* **[Appendix B: Informed Consent Forms](./APPENDIX_B_CONSENT.md)**
+* **[Appendix C: Study Protocols](./APPENDIX_C_PROTOCOL.md)**
+* **[Appendix E: Qualitative Coding Schemes](./APPENDIX_E_CODING.md)**

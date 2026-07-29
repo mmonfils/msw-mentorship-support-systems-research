@@ -1,0 +1,17 @@
+title: MSW Mentorship Research & Resource Portal
+description: Comprehensive academic documentation, curriculum standards, and facilitator materials for MSW mentorship frameworks.
+theme: just-the-docs
+
+url: "https://mmonfils.github.io"
+baseurl: "/msw-mentorship-support-systems-research"
+
+# Navigation settings
+nav_sort: case_insensitive
+
+# Search settings
+search_enabled: true
+search:
+  tokenizer_separator: /[\s\-/]+/
+
+# Color scheme
+color_scheme: light
