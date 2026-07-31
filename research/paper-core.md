@@ -1,3 +1,10 @@
+---
+layout: default
+title: Academic Research Core
+nav_order: 1
+parent: Research Core
+---
+
 1
 
 Mentorship as a Catalyst: Exploring Support Systems in Master of Social Work Graduate
@@ -1415,4 +1422,3 @@ Weller, B. E., Ruble, L. N., Leverett, S. D., & Cherubin, S. (2022). The Evidenc
 Process: The Importance of Mentorship. Journal of Evidence-Based Social Work (2640-
 
 8066), 19(3), 304–313. https://doi.org/10.1080/26408066.2022.2035880
-

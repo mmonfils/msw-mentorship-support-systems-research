@@ -1,30 +1,28 @@
 ---
 layout: default
-title: Home
+title: Overview
 nav_order: 1
-description: Central research archive for Master of Social Work mentorship frameworks.
+description: "MSW Mentorship & Support Systems Research Portal for the 2026 NASW Iowa Symposium."
 ---
 
-# MSW Mentorship & Critical Pedagogy Research Portal
+# MSW Mentorship & Support Systems Portal
 
-Welcome to the central academic documentation archive for **Mentorship as a Catalyst: Exploring Support Systems in Master of Social Work Graduate Training**. 
+Welcome to the academic documentation and resource portal for the research project **Mentoring as a Catalyst: Structural Support Systems for MSW Students and Early-Career Practitioners**.
 
-This site holds full manuscripts, ethical standards mappings, and facilitator resources for the 2026 NASW Iowa Symposium workshop.
-
----
-
-## Core Documentation Modules
-
-* **[Core Paper (`research/paper-core.md`)](./research/paper-core.md)**: Primary authority for theoretical frameworks, data analysis, and findings.
-* **[Literature Review (`research/literature-review.md`)](./research/literature-review.md)**: Review of critical pedagogy, systems theory, and strengths-based models.
-* **[Facilitator Portal (`facilitator/index.md`)](./facilitator/index.md)**: Facilitation guides and live data review protocols.
-* **[Annotated References (`references.md`)](./references.md)**: Complete citation list and standards alignment.
+This site serves as a single source of truth for theoretical frameworks, accreditation mappings, empirical research findings, and facilitation guides for the 2026 NASW Iowa Symposium workshop.
 
 ---
 
-## Appendices and Methodological Protocols
+## Quick Navigation
 
-* **[Appendix A: IRB Documentation](./APPENDIX_A_IRB.md)**
-* **[Appendix B: Informed Consent Forms](./APPENDIX_B_CONSENT.md)**
-* **[Appendix C: Study Protocols](./APPENDIX_C_PROTOCOL.md)**
-* **[Appendix E: Qualitative Coding Schemes](./APPENDIX_E_CODING.md)**
+* **[Research Core](./research/)**: Access the full peer-reviewed manuscript draft and primary literature base.
+* **[Theoretical Frameworks](./framework/)**: Explore the application of Critical Pedagogy and Systems Theory to MSW field instruction and advising.
+* **[Accreditation & Ethics](./standards/)**: Review mappings to CSWE 2022 EPAS Competencies and the NASW Code of Ethics.
+* **[Appendices & Methodology](./appendices/)**: Examine IRB approvals, consent forms, qualitative protocols, and thematic coding matrices.
+* **[Facilitator Portal](./facilitator/)**: Review step-by-step guides for running the live interactive feedback terminal and visual reveal interface.
+
+---
+
+## Theoretical Foundations & Scope
+
+Higher education and social work field settings frequently rely on informal or reactive advising models. This project examines how formalizing near-peer and structural mentorship networks mitigates student burnout, improves retention among non-traditional graduate students, and builds sustainable pathways into macro and clinical practice.
